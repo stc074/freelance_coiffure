@@ -1,0 +1,52 @@
+/* 
+    Document   : mainStyle
+    Created on : 31 janv. 2013, 14:46:31
+    Author     : FS-ESPRIMO
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+ul.galleries {
+    list-style-image: url("../images/photo_link.png");
+}
+
+div#map {
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    border: solid 4px #9966ff;
+    border-radius: 250px;
+}
+
+div.photoF {
+    background-image: url("../images/photoF.JPG");
+    width: 240px;
+    height: 240px;
+    border: solid 1px #cccccc;
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 7px;
+    margin: 20px 20px 20px 20px;
+}
+
+div.photoE {
+    background-image: url("../images/photoE.JPG");
+    width: 240px;
+    height: 240px;
+    border: solid 1px #cccccc;
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 7px;
+    margin: 20px 20px 20px 20px;
+}
+
+div.photoH {
+    background-image: url("../images/photoH.JPG");
+    width: 240px;
+    height: 240px;
+    border: solid 1px #cccccc;
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 7px;
+    margin: 20px 20px 20px 20px;
+}
